@@ -15,7 +15,7 @@ function HomeHero() {
           Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
           commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus
           et magnis dis parturient montes, nascetur ridiculus mus. Donec quam
-          felis, ultricies nec, pellentesque eu, pretium quis, sem.
+          felis, ultricies nec, pellentesque eu, pretium quis, seme.
         </p>
         <button className="px-4 py-2 bg-white text-black mt-[15px] rounded-md cursor-pointer hover:bg-slate-100">
           Get started
