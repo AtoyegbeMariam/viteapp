@@ -1,0 +1,14 @@
+.headerbox {
+display: flex;
+justify-content:space-between;
+background-color: brown;
+height: 90px;
+padding: 0px 30px;
+align-items: center;
+}
+.linklist{
+    text-decoration: none;
+    font-size: 13px;
+    letter-spacing: oem;
+    display: flex;
+}
