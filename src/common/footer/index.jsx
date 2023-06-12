@@ -3,8 +3,8 @@ import React from "react";
 function Footer() {
   return (
     <footer>
-      <div>
-        <div className="flex px-[40px] justify-centern">
+      <div className="mt-[50px]">
+        <div className="flex px-[40px] justify-center">
           <div>
             <p className="text-center text-[20px] font-bold md:text[18px] sm:flex-col  ">
               {" "}
